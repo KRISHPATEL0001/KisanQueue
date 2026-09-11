@@ -1,0 +1,6 @@
+{
+  "name": "KisanSetu – Farmer Procurement and Queue Management System",
+  "description": "An Indian government-style agricultural procurement platform for farmers, procurement-centre staff, help-desk operators, and supervising officers to manage registrations, capacity slots, queue stages, and payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
